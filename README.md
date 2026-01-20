@@ -56,6 +56,20 @@ Key files included in this repository:
   - `ROC_Pageblock.png`
 
 ---
+## Citation
+If you use this repository, please cite the paper:
+```bibtex
+@inproceedings{das2020reverse_smote,
+  title     = {An Oversampling Technique by Integrating Reverse-Nearest Neighbor in SMOTE: Reverse-SMOTE},
+  author    = {Das, Riju and Biswas, Saroj Kr. and Devi, Debashree and Sarma, Biswajit},
+  booktitle = {ICOSEC 2020},
+  year      = {2020},
+  doi       = {10.1109/ICOSEC49089.2020.9215387}
+}
+```
+## 👤 Contact
 
+Riju Das ([riju.das@ucd.ie](mailto:riju.das@ucd.ie))
+Ph.D. Scholar – University College Dublin
 
  
