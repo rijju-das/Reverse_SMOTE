@@ -1,6 +1,5 @@
 # Reverse-SMOTE (Reverse Nearest Neighbor–Integrated SMOTE)
 
-Implementation and experimental scripts for the paper:
 
 **An Oversampling Technique by Integrating Reverse-Nearest Neighbor in SMOTE: Reverse-SMOTE**  
 Riju Das, Saroj Kr. Biswas, Debashree Devi, Biswajit Sarma  
