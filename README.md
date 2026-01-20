@@ -13,7 +13,7 @@ Riju Das, Saroj Kr. Biswas, Debashree Devi, Biswajit Sarma
 Class imbalance is a common problem in real-world datasets (fraud detection, medical diagnosis, anomaly detection, etc.).  
 Traditional **SMOTE** generates synthetic minority samples using **k-nearest neighbors (kNN)** within the minority class, but it can suffer from **overfitting** when synthetic points are generated without considering how the **majority** class is distributed.
 
-✅ **Reverse-SMOTE (R-SMOTE)** addresses this by integrating the concept of **Reverse Nearest Neighbors (RNN)** into SMOTE.  
+**Reverse-SMOTE (R-SMOTE)** addresses this by integrating the concept of **Reverse Nearest Neighbors (RNN)** into SMOTE.  
 Instead of using only kNN neighbors, the algorithm uses **reverse-nearest-neighborhoods** to create synthetic samples in a way that better reflects the data distribution and reduces noisy/overfit synthetic generation.
 
 ---
@@ -57,12 +57,5 @@ Key files included in this repository:
 
 ---
 
-## ✅ Installation
-
-Clone the repo:
-
-```bash
-git clone https://github.com/rijju-das/Reverse_SMOTE.git
-cd Reverse_SMOTE
 
  
